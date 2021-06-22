@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Note Pad", "Simple Note Pad.csproj", "{3975EE30-5554-42CD-A450-339619918847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3975EE30-5554-42CD-A450-339619918847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3975EE30-5554-42CD-A450-339619918847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3975EE30-5554-42CD-A450-339619918847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3975EE30-5554-42CD-A450-339619918847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953E784B-891A-43B8-9154-7AC9AA6E728D}
+	EndGlobalSection
+EndGlobal
